@@ -191,7 +191,9 @@ hr {
 	margin-top: 1.2em;
 }
 
-
+.header .text .tech-overview {
+	font-size: .85em;
+}
 
 /* ==========================================================================
 	  Media Queries - Narrow view is default. The following describes what happens with wider viewports
