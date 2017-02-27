@@ -135,21 +135,19 @@ body {
 }
 
 h1 {
-	font-family: 'Ubuntu', sans-serif;
+	font-family: 'Syncopate', sans-serif;
 	font-size: 1.5rem;
 	font-weight: 700;
 }
 
 h2 {
 	color: #888;
-	font-family: 'Ubuntu', sans-serif;
 	font-size: 1.2rem;
 	font-weight: 500;
 	margin-bottom: .2em;
 }
 
 h3 {
-	font-family: 'Ubuntu', sans-serif;
 	font-size: .7rem;
 	width: 250px;
   color: #333;
